@@ -8,3 +8,4 @@ Till now it includes:
   •Inserting
   •Reversing
   •Deletion
+  •Doubly LL nodes addition in beginning,ending and in between
